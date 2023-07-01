@@ -1,0 +1,4 @@
+[
+    { "name": "New Users", "value": "103" , "icon": "UserPlusIcon" },
+    { "name": "Total Users", "value": "5432" , "icon": "UserPlusIcon" }
+]

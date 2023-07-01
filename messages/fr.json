@@ -1,0 +1,14 @@
+{
+    "login": {
+        "email" : "Email",
+        "password" : "mot de passe",
+        "login" : "connexion"
+    },
+    "dashboard" : {
+        "OverallStatus" : "Situation globale",
+        "TransferStatus" : "Statut de transfert"
+    },
+    "header" : {
+        "welcome" : "Bienvenu"
+    }
+}

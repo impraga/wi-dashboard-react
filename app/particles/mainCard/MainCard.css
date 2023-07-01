@@ -1,0 +1,10 @@
+.main-card-cont{
+    cursor: pointer;
+}
+
+.main-card-cont:hover{
+    background-color: #fefefe;
+}
+.main-card-cont:hover svg{
+    stroke: rgb(79 70 229);
+}
